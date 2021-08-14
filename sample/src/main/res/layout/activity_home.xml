@@ -76,7 +76,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_weight="1"
-                        android:padding="24dp"
+                        android:padding="26dp"
                         android:text="@string/toggle_hide" />
 
                     <Button
